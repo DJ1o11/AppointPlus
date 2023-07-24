@@ -1,4 +1,4 @@
-Doclab - home
+Appoint+ - home
 
 This is a madical html template made by codewithsadee
 
@@ -6,9 +6,9 @@ This is a madical html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-alt = Doclab home
+alt = Appoint+ home
 
-alt = Doclab home
+alt = Appoint+ home
 
 aria-label = clsoe menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -34,7 +34,7 @@ Make Appointment
 
 #---------- HERO ----------#
 
-Welcome To Doclab
+Welcome To Appoint+
 
 Find Nearest
 Doctor.
@@ -152,7 +152,7 @@ How do binge eating and drinking impact the liver?
 
 #---------- FOOTER ----------#
 
-alt = Doclab home
+alt = Appoint+ home
 
 <ion-icon name="mail-open-outline"></ion-icon>
 Main Email :
