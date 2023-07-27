@@ -1,7 +1,5 @@
 Appoint+ - home
 
-This is a madical html template made by codewithsadee
-
 
 
 #---------- HEADER ----------#
@@ -56,7 +54,6 @@ alt = hero banner
 alt = icon
 
 Psychiatry
-Lorem ipsum dolor sit amet, consectetur adipisicing
 
 aria-label = read more about psychiatry
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
@@ -76,22 +73,11 @@ About Us
 
 Experienced Workers
 
-Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam
-
 Vision
 Mission
 Strategy
 
-Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
-
 <ion-icon name="checkmark-circle-outline"></ion-icon>
-Sonsectetur adipisicing elit
-
-Exercitation ullamco laboris
-
-Eiusmod tempor incididunt
-
-Aolore magna aliqua
 
 alt = about banner
 
@@ -105,22 +91,16 @@ Browse by specialist
 alt = icon
 
 Psychiatry
-Porta velit
 
 Gynecology
-Mattis augue
 
 Pulmonology
-Mauris laoreet
 
 Orthopedics
-Convallis vulputate
 
 Pediatrics
-Posuere maecenas
 
 Osteology
-Nisi nullam
 
 
 
@@ -138,11 +118,6 @@ Specialist
 Could intermittent fasting reduce breast cancer
 
 28 January, 2022
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
-
-Read More
-
 
 Give children more autonomy during the pandemic
 
@@ -164,14 +139,12 @@ Info@mail.com
 <ion-icon name="call-outline"></ion-icon>
 
 Office Telephone :
-0029129102320
+0123456789
 
 Mobile :
-000 2324 39493
+0123456789
 
 About Us
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
 
 <ion-icon name="map-outline"></ion-icon>
 
@@ -203,8 +176,6 @@ placeholder = Email
 Subscribe 
 
 Get the latest updates via email. Any time you may unsubscribe
-
-&copy; Doclab 2022 | All Rights Reserved by codewithsadee
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
