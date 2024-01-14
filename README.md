@@ -1,4 +1,4 @@
-Appoint+ - Doctor Appointment Booking Website (Frontend)
+# Appoint+ - Doctor Appointment Booking Website (Frontend)
 
 Welcome to Appoint+ - Your seamless solution for booking doctor appointments online! 🏥
 This project is focused on providing a visually appealing and responsive user interface for booking doctor appointments. The frontend is built using HTML and CSS, ensuring a seamless experience across various devices such as mobile, tablet, and desktop.
